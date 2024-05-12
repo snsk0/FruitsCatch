@@ -8,7 +8,7 @@
 
 ### ゲーム概要
 空中から落下するオブジェクトを、左右移動のみで取得し、高いスコアを目指す簡単なミニゲームです。</br>
-詳細は[こちらの動画](https://studio.youtube.com/video/3FNyBa8lico/edit)からご確認ください。
+詳細は[こちらの動画](https://www.youtube.com/watch?v=3FNyBa8lico)からご確認ください。
 
 ### 制作概要
 ゲームエンジン: Unity</br>
